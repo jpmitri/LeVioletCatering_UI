@@ -1,0 +1,7 @@
+.text_custom_menu {
+  color: #391553;
+  text-shadow: -1.5px -1.5px 0 #ffffff,
+    1.5px -1.5px 0 #ffffff,
+    -1.5px 1.5px 0 #ffffff,
+    1.5px 1.5px 0 #ffffff;
+}
