@@ -1,0 +1,8 @@
+{
+    "customVariables": {
+        "scroll": {
+            "scrollBy": 20,
+            "interval": 2
+        }
+    }
+}
